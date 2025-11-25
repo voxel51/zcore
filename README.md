@@ -78,11 +78,11 @@ wget -qO- https://raw.githubusercontent.com/soumith/imagenetloader.torch/master/
 If you find this code useful, please consider citing our [paper](https://arxiv.org/pdf/2411.15349):
 
 ```bibtex
-@article{griffin24zcore,
-  title={Zero-Shot Coreset Selection: Efficient Pruning for Unlabeled Data},
-  author={Griffin, Brent A and Marks, Jacob and Corso, Jason J},
-  journal={arXiv preprint arXiv:2411.15349},
-  year={2024}
+@InProceedings{Griffin_2026_WACV,
+  author={Griffin, Brent A. and Marks, Jacob and Corso, Jason J.},
+  title={Zero-Shot Coreset Selection via Iterative Subspace Sampling},
+  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2026}
 }
 ```
 
